@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ardemoaugmentedimages</string>
+    <string-array name="choices_array">
+        <item>G</item>
+        <item>D</item>
+        <item>Em</item>
+        <item>C</item>
+        <item>Wagon Wheel</item>
+    </string-array>
+</resources>
